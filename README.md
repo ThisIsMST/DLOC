@@ -1,7 +1,7 @@
 سلام عزیزان . من MST ام و این برنامه رو برای راحتی دانشجویان دانشکده آموزشهای الکترونیکی دانشگاه شیراز درست کردم ❤️
 با استفاده ازین برنامه شما قادر به دانلود کلاس های دانشکده بصورت افلاین هستین (در صورتی ک از طرف خود دانشکده اون کلاس اپلود شده باشه)
 
-🔶 در صورتی که در دانلود کردن برنامه مشکل دارین روی https://github.com/MSTMadridista/DLOC/blob/master/Download_Guide.md کلیک کنین 
+🔶 در صورتی که در دانلود کردن برنامه مشکل دارین روی https://github.com/ThisIsMST/DLOC/blob/master/Download_Guide.md کلیک کنین 
 
 شما بعد از اجرای برنامه با صفحه زیر مواجه میشید (‌ درحال حاضر که ورژن 2.0 در دسترس هست ) ⬐
 
@@ -51,7 +51,7 @@ I hope u like it ✌️❤️‍🔥
 hi there . This is MST and I created this program for the convenience of students of Shiraz University's Faculty of Electronic Education 🤜🏻🤛🏻
 By using this program, U R able to download the classes of the faculty , offline (if that class has been uploaded by the faculty).
 
-🔶 if you're having trouble downloading, check out this guide: https://github.com/MSTMadridista/DLOC/blob/master/Download_Guide.md
+🔶 if you're having trouble downloading, check out this guide: https://github.com/ThisIsMST/DLOC/blob/master/Download_Guide.md
 After running the program, you will see the following screen (now that version 2.0 is available) ⬐
 
 ![Screenshot 2024-06-25 122606](https://github.com/MSTMadridista/DLOC/assets/149692666/2f692ee6-b7be-430a-a60e-2f36763f81f7)
